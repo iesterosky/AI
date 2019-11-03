@@ -1,0 +1,11 @@
+C:\Users\J\source\repos\AI\AI_esame\bin\Debug\netcoreapp2.1\AI_esame.deps.json
+C:\Users\J\source\repos\AI\AI_esame\bin\Debug\netcoreapp2.1\AI_esame.runtimeconfig.json
+C:\Users\J\source\repos\AI\AI_esame\bin\Debug\netcoreapp2.1\AI_esame.runtimeconfig.dev.json
+C:\Users\J\source\repos\AI\AI_esame\bin\Debug\netcoreapp2.1\AI_esame.dll
+C:\Users\J\source\repos\AI\AI_esame\bin\Debug\netcoreapp2.1\AI_esame.pdb
+C:\Users\J\source\repos\AI\AI_esame\obj\Debug\netcoreapp2.1\AI_esame.csprojAssemblyReference.cache
+C:\Users\J\source\repos\AI\AI_esame\obj\Debug\netcoreapp2.1\AI_esame.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\AI\AI_esame\obj\Debug\netcoreapp2.1\AI_esame.AssemblyInfoInputs.cache
+C:\Users\J\source\repos\AI\AI_esame\obj\Debug\netcoreapp2.1\AI_esame.AssemblyInfo.cs
+C:\Users\J\source\repos\AI\AI_esame\obj\Debug\netcoreapp2.1\AI_esame.dll
+C:\Users\J\source\repos\AI\AI_esame\obj\Debug\netcoreapp2.1\AI_esame.pdb
